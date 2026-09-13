@@ -94,7 +94,7 @@ The results helped identify strong-performing areas as well as areas that may re
 
 The final Power BI dashboard brings together the major sales and profit metrics and provides an interactive view of business performance.
 
-![Power BI Dashboard](final%20dashboard%20image.png)
+![Power BI Dashboard](https://github.com/mohankshetra/financial_performance_analysis/blob/main/final%20dashboard%20image.png)
 
 It allows users to explore performance across different business dimensions and understand the overall financial performance of the retail dataset.
 
