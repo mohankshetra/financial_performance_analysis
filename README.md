@@ -14,34 +14,37 @@ The project follows a complete data analysis workflow, starting with data prepar
 
 The main objectives of this project are:
 
-- To clean and prepare retail sales data for analysis.
-- To analyze sales and profit performance using Excel.
-- To perform business-oriented analysis using SQL.
-- To identify important sales and profitability patterns.
-- To analyze regional, category, segment, and product performance.
-- To create an interactive Power BI dashboard.
-- To derive meaningful business insights from the analysis.
+* To clean and prepare retail sales data for analysis.
+* To analyze sales and profit performance using Excel.
+* To perform business-oriented analysis using SQL.
+* To identify important sales and profitability patterns.
+* To analyze regional, category, segment, and product performance.
+* To create an interactive Power BI dashboard.
+* To derive meaningful business insights from the analysis.
 
 ## Tools & Technologies
 
 ### Microsoft Excel
-- Data cleaning and preparation
-- Calculations
-- Pivot Table analysis
-- Sales and profit analysis
+
+* Data cleaning and preparation
+* Calculations
+* Pivot Table analysis
+* Sales and profit analysis
 
 ### SQL (PostgreSQL)
-- Data querying
-- Filtering and sorting
-- Aggregation
-- Grouping
-- Regional and category analysis
+
+* Data querying
+* Filtering and sorting
+* Aggregation
+* Grouping
+* Regional and category analysis
 
 ### Power BI
-- Data visualization
-- KPI analysis
-- Interactive dashboard
-- Business performance reporting
+
+* Data visualization
+* KPI analysis
+* Interactive dashboard
+* Business performance reporting
 
 ## Project Workflow
 
@@ -71,15 +74,15 @@ The final analysis was used to identify important business insights and provide 
 
 ## Key Analysis Areas
 
-- Overall sales performance
-- Overall profit performance
-- Sales by region
-- Sales and profit by category
-- Segment performance
-- State-level sales performance
-- Product-level performance
-- Regional comparisons
-- Category comparisons
+* Overall sales performance
+* Overall profit performance
+* Sales by region
+* Sales and profit by category
+* Segment performance
+* State-level sales performance
+* Product-level performance
+* Regional comparisons
+* Category comparisons
 
 ## Key Business Insights
 
@@ -91,19 +94,19 @@ The results helped identify strong-performing areas as well as areas that may re
 
 The final Power BI dashboard brings together the major sales and profit metrics and provides an interactive view of business performance.
 
-
 ![Power BI Dashboard](final%20dashboard%20image.png)
+
 It allows users to explore performance across different business dimensions and understand the overall financial performance of the retail dataset.
 
 ## Project Files
 
-| File | Description |
-|------|-------------|
-| `EXCEL CLEANED FINAL` | Cleaned data and Excel analysis |
-| `order_cleaned.csv` | Cleaned dataset used for SQL analysis |
-| `sql project query.sql` | SQL queries used for business analysis |
-| `financial performance analysis dashboard` | Final Power BI dashboard |
-| `final documentation.pdf` | Complete project documentation |
+| File                                       | Description                            |
+| ------------------------------------------ | -------------------------------------- |
+| `EXCEL CLEANED FINAL`                      | Cleaned data and Excel analysis        |
+| `order_cleaned.csv`                        | Cleaned dataset used for SQL analysis  |
+| `sql project query.sql`                    | SQL queries used for business analysis |
+| `financial performance analysis dashboard` | Final Power BI dashboard               |
+| `final documentation.pdf`                  | Complete project documentation         |
 
 ## Project Documentation
 
@@ -111,6 +114,6 @@ The complete project documentation is available in the **final documentation.pdf
 
 ## Author
 
-**Shalita. R**
+**MohankShetra**
 
 Personal Data Analytics Portfolio Project
